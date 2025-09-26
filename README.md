@@ -11,6 +11,15 @@ It provides a centralized and organized system where students can:
 
 ---
 
+## 📑 Uniqueness  
+SmartMind stands out from other quiz platforms because:  
+- 🎓 It is **focused on IT curriculum** specific to the campus.  
+- 📂 Quizzes are organized **year-wise and module-wise** for easier navigation.  
+- 📝 Each module includes a **module description** so students understand the module before attempting quizzes.  
+- 📱 Designed with a **clean, mobile-friendly UI** for smooth learning anywhere.  
+
+---
+
 ## 🎯 Objectives  
 - Develop a **web-based quiz system** for IT students.  
 - Support **academic revision** through structured quizzes.  
